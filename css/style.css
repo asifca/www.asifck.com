@@ -330,7 +330,7 @@ p {
     transform: scale(1); } }
 /********Body Sec CSS********/
 .fixed-bg {
-  background: transparent url("../img/mainbg.jpg") no-repeat;
+  background: transparent url("../img/mainbg.webp") no-repeat;
   image-rendering: optimizeQuality;
   height: 100%;
   width: 100%;
@@ -371,7 +371,7 @@ p {
   .content-block .person-img {
     height: 150px;
     width: 150px;
-    background: url(../img/candidate.png);
+    background: url(../img/candidate.webp);
     border-radius: 50%;
     background-repeat: no-repeat;
     background-size: cover; }
